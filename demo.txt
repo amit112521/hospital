@@ -1,2 +1,8 @@
-i am java file
-hi
+import java.util.*
+public class simple
+{
+   public static void main(String args[])
+{
+     System.out.println("i am the best in whole universe");
+}
+}
